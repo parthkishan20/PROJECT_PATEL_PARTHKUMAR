@@ -1,7 +1,7 @@
 
 # Search Engine Project - README
 
-**Author**: Parthkumar Patel  
+**Student**: Parthkumar Patel  
 **CWID**: 20029693  
 **Course**: CS-600 Advanced Algorithms  
 

@@ -1,0 +1,29 @@
+=== Search Engine Query Log ===
+
+Query: hello
+No matches found.
+
+Query: hell2
+No matches found.
+
+Query: wiki1
+No matches found.
+
+Query: wiki
+Results:
+  page9.html (score: 3)
+  page7.html (score: 2)
+  page10.html (score: 1)
+
+Query: content
+Results:
+  page4.html (score: 13)
+  page7.html (score: 5)
+  page8.html (score: 5)
+  page1.html (score: 2)
+  page9.html (score: 2)
+  page5.html (score: 2)
+  page3.html (score: 2)
+  page2.html (score: 2)
+  page6.html (score: 1)
+  page10.html (score: 1)

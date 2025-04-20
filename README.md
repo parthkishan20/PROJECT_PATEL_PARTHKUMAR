@@ -17,6 +17,7 @@ Here’s what it can do:
 ✅ Reads the content of each page  
 ✅ Ignores common words like "the", "and", "of"  
 ✅ Remembers which words appear in which files  (Recent Searches)
+
 ✅ Lets you search from a webpage  
 ✅ Shows results ranked by how many times the word appears  
 ✅ Highlights the matched words  
@@ -60,7 +61,7 @@ SearchEngineProject/
 4. Open this link in your browser:  
    `http://localhost:5000`
 
-5. Type a search word, like `python`, and hit Search.
+5. Type a search word, like `wikipedia`, and hit Search.
 
 You’ll see:
 - Matching pages
